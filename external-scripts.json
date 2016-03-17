@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-standup-alarm",
   "hubot-thank-you",
-  "hubot-victory"
+  "hubot-victory",
+  "hubot-cron"
 ]
