@@ -4,6 +4,11 @@
   "engines": {
     "node": "6.11.0"
   },
+  "scripts": {
+    "build": "yarn install",
+    "start": "node_modules/.bin/hubot --name 'f4s-hubot'",
+    "start-heroku": "node_modules/.bin/hubot --name 'f4s-hubot' -a slack"
+  },
   "private": true,
   "author": "Bruno Alla <bruno.alla@founders4schools.org.uk>",
   "description": "F4S robot",

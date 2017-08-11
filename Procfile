@@ -1,1 +1,1 @@
-web: bin/hubot -a slack
+web: npm run-script start-heroku
