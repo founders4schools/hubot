@@ -1,7 +1,6 @@
 [
   "hubot-cron",
   "hubot-diagnostics",
-  "hubot-foursquare-lunch",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
